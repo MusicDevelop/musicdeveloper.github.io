@@ -32,7 +32,7 @@ new Vue({
             "https://muzonovs.ru/uploads/posts/2018-03/medium/1520910571_whethan-feat_-skrillex-kiiara-friendship-www_muzonov_net.jpg",
           source:
             "twigs-Fukk-Sleep.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          url: "https://www.youtube.com/watch?v=pM5XogpX1JA",
           favorited: true,
         },
         {
@@ -42,7 +42,7 @@ new Vue({
             "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/24/8d/4f248dcc-cc0a-485d-862a-bcbc6f054d1c/198001171857.png/400x400bb.jpeg",
           source:
             "all-for-us.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          url: "https://www.youtube.com/watch?v=4MCJ3lgFqbg",
           favorited: false,
         },
         {
@@ -52,7 +52,7 @@ new Vue({
             "https://i.scdn.co/image/ab67616d0000b2735a6d9ff1e993a9f0e087102a",
           source:
             "Feel-Like-God.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          url: "https://www.youtube.com/watch?v=71YborNmWsA",
           favorited: false,
         },
         {
@@ -62,7 +62,7 @@ new Vue({
             "https://lastfm.freetls.fastly.net/i/u/ar0/7026efe7971fba52f75e8367a261c835.jpg",
           source:
             "Jaymes-Young-Infinity.mp3",
-          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
+          url: "https://www.youtube.com/watch?v=PWqEPKduGm8",
           favorited: true,
         },
         {
@@ -72,7 +72,7 @@ new Vue({
             "https://m.media-amazon.com/images/I/71+JZba5PuL._SS500_.jpg",
           source:
             "Dwele-Flashing-Lights.mp3",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          url: "https://www.youtube.com/watch?v=ila-hAUXR5U",
           favorited: false,
         },
         {
@@ -82,7 +82,7 @@ new Vue({
             "https://cdns-images.dzcdn.net/images/cover/7e8314f4280cffde363547a495a260bc/350x350.jpg",
           source:
             "imagine-dragons-radioactive.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          url: "www.youtube.com/watch?v=ktvTqknDobU",
           favorited: true,
         },
        
