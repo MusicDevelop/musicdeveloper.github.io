@@ -81,7 +81,7 @@ new Vue({
           cover:
             "https://cdns-images.dzcdn.net/images/cover/7e8314f4280cffde363547a495a260bc/350x350.jpg",
           source:
-            "imagine-dragons-radioactive.mp3",
+            "Feel-Like-God.mp3",
           url: "www.youtube.com/watch?v=ktvTqknDobU",
           favorited: true,
         },
